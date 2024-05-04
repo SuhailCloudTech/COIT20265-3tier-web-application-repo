@@ -74,7 +74,7 @@
 </head>
 <body>
     <header>
-        <h1>Database Test Page</h1>
+        <h1>Virgin Australia Application Database Connectivity Test Page</h1>
     </header>
 
     <form action="<?php echo $_SERVER['SCRIPT_NAME']; ?>" method="POST">
